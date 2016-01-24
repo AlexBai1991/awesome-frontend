@@ -145,6 +145,7 @@
 - [ES6 Promise - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [JavaScript Promise Book](http://liubin.github.io/promises-book/)
 - [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
+- [JavaScript Promises](http://www.html5rocks.com/zh/tutorials/es6/promises/)
 
 ### Code Quality
 
